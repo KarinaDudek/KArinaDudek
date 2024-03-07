@@ -1,7 +1,7 @@
 # Karina Dudek
 ## Junior Java Developer 
 
-Jestem inżynierwm, który w wieku 36 lat postanowił się przebranżowić i na własną rękę nauczyć się programowania. 
+Jestem inżynierem, który w wieku 36 lat postanowił się przebranżowić i na własną rękę nauczyć się programowania. 
 
 ![git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)

@@ -1,7 +1,11 @@
 # Karina Dudek
-## Junior Java Developer 
+### Junior Java Developer 
 
-Jestem inżynierem, który w wieku 36 lat postanowił się przebranżowić i na własną rękę nauczyć się programowania. 
+Hi! 
+I am a naval architect who, at the age of 36, decided to reinvent myself and learn programming on my own.
+- 🌱 I am currently learning Java and have completed a Git course.
+- 👯 I'm looking to collaborate on projects where I can apply the knowledge I've learned and use my Java and Git skills.
+- 🤔 I am looking for help with further development as a Java developer. If you could recommend a course or book in this area I would be grateful.
 
 ![git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
